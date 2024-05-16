@@ -1,0 +1,9 @@
+/.idea/
+/venv/
+/debug.log/
+/*.log/
+/*.pyc/
+/*iml/
+/out/
+/gen/
+/__pycache__/
